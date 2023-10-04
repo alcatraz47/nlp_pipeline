@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# ignore folder and file from pc
+archive.zip
+codebook_food.docx
+food_coded.csv
+
 # C extensions
 *.so
 
